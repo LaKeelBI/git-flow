@@ -1,6 +1,6 @@
 @ECHO OFF
 
-REM Test Batch
+REM Test Batch 2
 
 ECHO Start %DATE% %TIME%
 TIMEOUT /T 3 /NOBREAK
